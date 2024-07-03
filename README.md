@@ -6,6 +6,9 @@ This is a project we did in the Datathon24 Competition where, 53 teams represent
 - We had the honor of presenting our findings in front of the esteemed Deloitte panelists.
 - It was a great experience and I learned a lot about presentations and a proejct workflow.
 
+
+Link to Video presentation: [https://drive.google.com/file/d/13m74CYV1YzPmz3W-XWc14OHG0gVUUwc3/view?usp=sharing]
+
 ## Question
 With the growing popularity of professional basketball, the National Basketball
 Association (NBA) is looking to expand their league from 30 teams to 32. There have
